@@ -23,4 +23,6 @@
 .btn {        
         font-size: 15px;
         font-weight: bold;
+	background-color: #28c228;
+    	border-color: #29a571;
     }
